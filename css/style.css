@@ -263,13 +263,13 @@ p {
     padding: 19px 0;
     border-top: 0.7px solid rgb(201, 201, 201);
     border-bottom: 0.7px solid rgb(201, 201, 201);
+    margin-bottom: 19px;
 }
 .sidebar-header span{
     color: #14485b;
     font-weight: bold;
 }
 .list {
-    padding-top: 19px;
     line-height: 1.5;
 }
 .sidebar-title {
